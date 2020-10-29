@@ -1,0 +1,12 @@
+.home-classification {
+  width: 100%;
+  //min-height: 200px;
+  box-sizing: border-box;
+  padding: 0 20px 10px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: space-between;
+  align-content: space-between;
+}

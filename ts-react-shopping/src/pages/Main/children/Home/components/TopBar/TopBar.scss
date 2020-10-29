@@ -1,0 +1,20 @@
+.home-page-title {
+  position: relative;
+  width: 100%;
+  padding: 0 20px 20px;
+  box-sizing: border-box;
+  background-color: #e74c3c;
+
+  .title-inner {
+    position: relative;
+    z-index: 10;
+    padding: 24px 0 0;
+
+    .shop-title {
+      font-weight: bold;
+      color: #fff;
+      font-size: 20px;
+      margin-bottom: 16px;
+    }
+  }
+}
